@@ -1,0 +1,26 @@
+body {
+    padding: 25px;
+    color: #484848;
+}
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: #29be74;
+    font-weight: normal;
+    width: 450px;
+}
+table {
+    width: 500px;
+    padding: 5px;
+    background-color: #c5cce7;
+}
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+td {
+    text-align: center;
+    border: 1px solid;
+}
+
